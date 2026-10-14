@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Mapeamento de IDs entre provedores."
+  ],
+  "enabled": true,
+  "id": "anizip",
+  "kind": "mapping",
+  "manifestSnapshot": {
+    "id": "anizip",
+    "name": "AniZip Mappings",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://api.ani.zip/mappings",
+  "name": "AniZip Mappings",
+  "priority": 30,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

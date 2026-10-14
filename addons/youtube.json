@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Trailers do YouTube."
+  ],
+  "enabled": true,
+  "id": "youtube",
+  "kind": "trailer",
+  "manifestSnapshot": {
+    "id": "youtube",
+    "name": "YouTube Trailers",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://www.youtube.com",
+  "name": "YouTube Trailers",
+  "priority": 80,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

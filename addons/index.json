@@ -1,0 +1,113 @@
+{
+  "addons": [
+    {
+      "file": "animestream.json",
+      "id": "animestream",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "anixio.json",
+      "id": "community.anixio",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "anizip.json",
+      "id": "anizip",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "bestcine.json",
+      "id": "com.bestcine.multisource",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "big.json",
+      "id": "big",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "cinemeta.json",
+      "id": "cinemeta",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "fenixflix.json",
+      "id": "com.fenixflix",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "froststream.json",
+      "id": "froststream",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "iracemaflix.json",
+      "id": "community.m3u.catalog",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "kitsu.json",
+      "id": "kitsu",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "magnetflix.json",
+      "id": "com.magnetbr",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "selectavision.json",
+      "id": "selectavision.stremio",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "streaming-catalogs.json",
+      "id": "animenetflix",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "tmdb.json",
+      "id": "tmdb",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "unioflix.json",
+      "id": "unioflix",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "veyra.json",
+      "id": "community.veyra.addon",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "youtube.json",
+      "id": "youtube",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    },
+    {
+      "file": "zeus.json",
+      "id": "zeus",
+      "updatedAt": "2026-10-14T00:00:00Z",
+      "version": "1.0.0"
+    }
+  ],
+  "generatedAt": "2026-10-14T00:00:00Z"
+}

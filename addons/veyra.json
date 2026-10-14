@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams Veyra."
+  ],
+  "enabled": true,
+  "id": "community.veyra.addon",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "community.veyra.addon",
+    "name": "Veyra",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://veyra.shardweb.app/manifest.json",
+  "name": "Veyra",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

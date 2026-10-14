@@ -1,0 +1,34 @@
+{
+  "faixa": "4-10 anos",
+  "id": "herois",
+  "items": [
+    {
+      "id": "buscar:Patrulha Canina",
+      "name": "Patrulha Canina",
+      "type": "series"
+    },
+    {
+      "id": "buscar:PJ Masks",
+      "name": "PJ Masks",
+      "type": "series"
+    },
+    {
+      "id": "buscar:Ben 10",
+      "name": "Ben 10",
+      "type": "series"
+    },
+    {
+      "id": "buscar:As Meninas Superpoderosas",
+      "name": "As Meninas Superpoderosas",
+      "type": "series"
+    },
+    {
+      "id": "buscar:O Incrível Mundo de Gumball",
+      "name": "O Incrível Mundo de Gumball",
+      "type": "series"
+    }
+  ],
+  "name": "Heróis e Aventura",
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

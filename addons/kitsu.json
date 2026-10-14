@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "API de metadados de anime (sem manifesto Stremio)."
+  ],
+  "enabled": true,
+  "id": "kitsu",
+  "kind": "catalog",
+  "manifestSnapshot": {
+    "id": "kitsu",
+    "name": "Kitsu API",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://kitsu.io/api/edge",
+  "name": "Kitsu API",
+  "priority": 20,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "changelog": {
+      "type": "array"
+    },
+    "enabled": {
+      "type": "boolean"
+    },
+    "id": {
+      "type": "string"
+    },
+    "kind": {
+      "enum": [
+        "catalog",
+        "stream",
+        "mapping",
+        "embed",
+        "trailer",
+        "all"
+      ]
+    },
+    "manifestSnapshot": {
+      "type": "object"
+    },
+    "manifestUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "priority": {
+      "type": "integer"
+    },
+    "timeoutMs": {
+      "type": "integer"
+    },
+    "updatedAt": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "kind",
+    "manifestUrl",
+    "version",
+    "enabled"
+  ],
+  "title": "Addon ANTFLIX-API",
+  "type": "object"
+}

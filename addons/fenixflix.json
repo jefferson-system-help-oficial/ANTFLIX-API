@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams dublado/legendado."
+  ],
+  "enabled": true,
+  "id": "com.fenixflix",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "com.fenixflix",
+    "name": "FenixFlix",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://fenixflix.fenixhub.online/manifest.json",
+  "name": "FenixFlix",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

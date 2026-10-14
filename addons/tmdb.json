@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Instável (504) — health-check tira da fila sozinho."
+  ],
+  "enabled": true,
+  "id": "tmdb",
+  "kind": "catalog",
+  "manifestSnapshot": {
+    "id": "tmdb",
+    "name": "TMDB Addon",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://94c8cb9f702d-tmdb-addon.baby-beamup.club/manifest.json",
+  "name": "TMDB Addon",
+  "priority": 40,
+  "timeoutMs": 6000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

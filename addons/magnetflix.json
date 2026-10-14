@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams Magnetflix."
+  ],
+  "enabled": true,
+  "id": "com.magnetbr",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "com.magnetbr",
+    "name": "Magnetflix",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://magnetflix.flixbr.online/manifest.json",
+  "name": "Magnetflix",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

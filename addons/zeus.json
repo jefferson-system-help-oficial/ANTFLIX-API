@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams Zeus."
+  ],
+  "enabled": true,
+  "id": "zeus",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "zeus",
+    "name": "Zeus Streams",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://398fe185fed6-zeus.baby-beamup.club/v1-p1kv-q3j/manifest.json",
+  "name": "Zeus Streams",
+  "priority": 60,
+  "timeoutMs": 10000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

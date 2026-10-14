@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams Iracemaflix."
+  ],
+  "enabled": true,
+  "id": "community.m3u.catalog",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "community.m3u.catalog",
+    "name": "Iracemaflix",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://iracemaflix-ep6ptyfy.manus.space/manifest.json",
+  "name": "Iracemaflix",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

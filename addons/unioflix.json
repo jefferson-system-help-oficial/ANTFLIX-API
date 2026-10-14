@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams UnioFlix."
+  ],
+  "enabled": true,
+  "id": "unioflix",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "unioflix",
+    "name": "UnioFlix Streams",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://bcf125302240-unioflix.baby-beamup.club/manifest.json",
+  "name": "UnioFlix Streams",
+  "priority": 65,
+  "timeoutMs": 10000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

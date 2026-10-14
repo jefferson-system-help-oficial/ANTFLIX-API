@@ -1,0 +1,39 @@
+{
+  "faixa": "0-6 anos",
+  "id": "pre-escolar",
+  "items": [
+    {
+      "id": "buscar:Bluey",
+      "name": "Bluey",
+      "type": "series"
+    },
+    {
+      "id": "buscar:Peppa Pig",
+      "name": "Peppa Pig",
+      "type": "series"
+    },
+    {
+      "id": "buscar:Mundo Bita",
+      "name": "Mundo Bita",
+      "type": "series"
+    },
+    {
+      "id": "buscar:Galinha Pintadinha",
+      "name": "Galinha Pintadinha",
+      "type": "series"
+    },
+    {
+      "id": "buscar:Show da Luna",
+      "name": "Show da Luna",
+      "type": "series"
+    },
+    {
+      "id": "buscar:Pocoyo",
+      "name": "Pocoyo",
+      "type": "series"
+    }
+  ],
+  "name": "Pré-escolar",
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

@@ -1,0 +1,5 @@
+{
+  "lockMs": 60000,
+  "maxFails": 3,
+  "pinLength": 4
+}

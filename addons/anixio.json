@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams Anixio."
+  ],
+  "enabled": true,
+  "id": "community.anixio",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "community.anixio",
+    "name": "Anixio",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://anixio.barigadogram.ru/manifest.json",
+  "name": "Anixio",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Catálogo de animes."
+  ],
+  "enabled": true,
+  "id": "animestream",
+  "kind": "catalog",
+  "manifestSnapshot": {
+    "id": "animestream",
+    "name": "AnimeStream Addon",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://animestream-addon.keypop3750.workers.dev/manifest.json",
+  "name": "AnimeStream Addon",
+  "priority": 5,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

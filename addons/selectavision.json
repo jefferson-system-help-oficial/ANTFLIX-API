@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte de streams SelectaVision."
+  ],
+  "enabled": true,
+  "id": "selectavision.stremio",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "selectavision.stremio",
+    "name": "SelectaVision",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://edersonff.github.io/selecta-vision-stremio/manifest.json",
+  "name": "SelectaVision",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

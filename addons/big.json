@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Addon de exemplo — duplicar este arquivo para cadastrar um novo addon."
+  ],
+  "enabled": true,
+  "id": "big",
+  "kind": "catalog",
+  "manifestSnapshot": {
+    "id": "big",
+    "name": "Big Exemplo",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://exemplo.com/manifest.json",
+  "name": "Big (exemplo)",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

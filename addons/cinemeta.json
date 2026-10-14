@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Metadados oficiais (temporadas, episódios, elenco)."
+  ],
+  "enabled": true,
+  "id": "cinemeta",
+  "kind": "catalog",
+  "manifestSnapshot": {
+    "id": "cinemeta",
+    "name": "Cinemeta Official",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://v3-cinemeta.strem.io/manifest.json",
+  "name": "Cinemeta Official",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

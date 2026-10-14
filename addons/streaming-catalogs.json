@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Pacote inicial com 13 plataformas / 25 catálogos."
+  ],
+  "enabled": true,
+  "id": "animenetflix",
+  "kind": "catalog",
+  "manifestSnapshot": {
+    "id": "pw.ers.netflix-catalog",
+    "name": "Streaming Catalogs",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxjbHYsZ29wLGNydSxtZ2wscG1wLG5mayxjdHMsbWJpOjpCUjoxNzkxODMyNjMwOTk5OjA6MDpCUg%3D%3D/manifest.json",
+  "name": "Streaming Catalogs",
+  "priority": 8,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

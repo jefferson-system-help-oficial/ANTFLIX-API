@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Agregador lento (5-14s) — resposta progressiva no player."
+  ],
+  "enabled": true,
+  "id": "froststream",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "froststream",
+    "name": "FrostStream Addon",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://froststream.cloutteam.com/manifest.json",
+  "name": "FrostStream Addon",
+  "priority": 70,
+  "timeoutMs": 10000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

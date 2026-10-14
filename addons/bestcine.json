@@ -1,0 +1,19 @@
+{
+  "changelog": [
+    "Fonte multisource com catálogos próprios."
+  ],
+  "enabled": true,
+  "id": "com.bestcine.multisource",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "com.bestcine.multisource",
+    "name": "BestCine",
+    "version": "1.0.0"
+  },
+  "manifestUrl": "https://bestcine.dpdns.org/manifest.json",
+  "name": "BestCine",
+  "priority": 50,
+  "timeoutMs": 8000,
+  "updatedAt": "2026-10-14T00:00:00Z",
+  "version": "1.0.0"
+}

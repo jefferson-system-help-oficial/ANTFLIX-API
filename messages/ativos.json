@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "acao": null,
+      "ate": null,
+      "de": "2026-10-14T00:00:00Z",
+      "id": "boas-vindas-beta",
+      "kidsSafe": true,
+      "texto": "Bem-vindo ao ANTFLIX Desktop beta. Conecte as fontes em Administração → Fontes.",
+      "tipo": "info",
+      "titulo": "Bem-vindo ao beta"
+    }
+  ]
+}
