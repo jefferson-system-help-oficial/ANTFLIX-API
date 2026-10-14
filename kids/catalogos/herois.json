@@ -3,32 +3,61 @@
   "id": "herois",
   "items": [
     {
-      "id": "buscar:Patrulha Canina",
+      "id": "tt3121722",
       "name": "Patrulha Canina",
-      "type": "series"
+      "originalName": "PAW Patrol",
+      "poster": "https://images.metahub.space/poster/small/tt3121722/img",
+      "type": "series",
+      "year": "2013"
     },
     {
-      "id": "buscar:PJ Masks",
+      "id": "tt4148744",
       "name": "PJ Masks",
-      "type": "series"
+      "poster": "https://images.metahub.space/poster/small/tt4148744/img",
+      "type": "series",
+      "year": "2015"
     },
     {
-      "id": "buscar:Ben 10",
+      "id": "tt0760437",
       "name": "Ben 10",
-      "type": "series"
+      "poster": "https://images.metahub.space/poster/small/tt0760437/img",
+      "type": "series",
+      "year": "2005"
     },
     {
-      "id": "buscar:As Meninas Superpoderosas",
+      "id": "tt0175058",
       "name": "As Meninas Superpoderosas",
-      "type": "series"
+      "originalName": "The Powerpuff Girls",
+      "poster": "https://images.metahub.space/poster/small/tt0175058/img",
+      "type": "series",
+      "year": "1998"
     },
     {
-      "id": "buscar:O Incrível Mundo de Gumball",
+      "id": "tt1942683",
       "name": "O Incrível Mundo de Gumball",
-      "type": "series"
+      "originalName": "The Amazing World of Gumball",
+      "poster": "https://images.metahub.space/poster/small/tt1942683/img",
+      "type": "series",
+      "year": "2011"
+    },
+    {
+      "id": "tt1884856",
+      "name": "Masha e o Urso",
+      "originalName": "Masha and the Bear",
+      "poster": "https://images.metahub.space/poster/small/tt1884856/img",
+      "type": "series",
+      "year": "2007"
+    },
+    {
+      "id": "tt0235917",
+      "name": "Dora, a Aventureira",
+      "originalName": "Dora the Explorer",
+      "poster": "https://images.metahub.space/poster/small/tt0235917/img",
+      "type": "series",
+      "year": "2000"
     }
   ],
   "name": "Heróis e Aventura",
-  "updatedAt": "2026-10-14T00:00:00Z",
-  "version": "1.0.0"
+  "updatedAt": "2026-10-15T00:00:00Z",
+  "version": "1.1.0"
 }

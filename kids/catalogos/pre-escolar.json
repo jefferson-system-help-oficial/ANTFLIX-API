@@ -3,37 +3,50 @@
   "id": "pre-escolar",
   "items": [
     {
-      "id": "buscar:Bluey",
+      "id": "tt7678620",
       "name": "Bluey",
-      "type": "series"
+      "poster": "https://images.metahub.space/poster/small/tt7678620/img",
+      "type": "series",
+      "year": "2018"
     },
     {
-      "id": "buscar:Peppa Pig",
+      "id": "tt0426769",
       "name": "Peppa Pig",
-      "type": "series"
+      "poster": "https://images.metahub.space/poster/small/tt0426769/img",
+      "type": "series",
+      "year": "2004"
     },
     {
-      "id": "buscar:Mundo Bita",
+      "id": "tt12987664",
       "name": "Mundo Bita",
-      "type": "series"
+      "poster": "https://live.metahub.space/poster/small/tt12987664/img",
+      "type": "series",
+      "year": "2013"
     },
     {
-      "id": "buscar:Galinha Pintadinha",
+      "id": "tt6925620",
       "name": "Galinha Pintadinha",
-      "type": "series"
+      "poster": "https://live.metahub.space/poster/small/tt6925620/img",
+      "type": "series",
+      "year": "2006"
     },
     {
-      "id": "buscar:Show da Luna",
+      "id": "tt6428704",
       "name": "Show da Luna",
-      "type": "series"
+      "originalName": "Earth to Luna!",
+      "poster": "https://images.metahub.space/poster/small/tt6428704/img",
+      "type": "series",
+      "year": "2014"
     },
     {
-      "id": "buscar:Pocoyo",
+      "id": "tt0487849",
       "name": "Pocoyo",
-      "type": "series"
+      "poster": "https://images.metahub.space/poster/small/tt0487849/img",
+      "type": "series",
+      "year": "2005"
     }
   ],
   "name": "Pré-escolar",
-  "updatedAt": "2026-10-14T00:00:00Z",
-  "version": "1.0.0"
+  "updatedAt": "2026-10-15T00:00:00Z",
+  "version": "1.1.0"
 }

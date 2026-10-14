@@ -16,6 +16,9 @@
           "name": {
             "type": "string"
           },
+          "originalName": {
+            "type": "string"
+          },
           "poster": {
             "type": "string"
           },
@@ -25,6 +28,9 @@
               "series",
               "anime"
             ]
+          },
+          "year": {
+            "type": "string"
           }
         },
         "required": [
