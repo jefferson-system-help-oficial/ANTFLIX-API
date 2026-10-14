@@ -62,9 +62,128 @@
       "type": "movie",
       "year": "2002",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_SX250.jpg"
+    },
+    {
+      "id": "tt0189071",
+      "name": "Scooby-Doo and the Ghoul School",
+      "type": "movie",
+      "year": "1988",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDAzMmVjMTAtYTE3Ni00Zjk0LWEwYjktNTA4ZmMwOGEzMmMyXkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt0063950",
+      "name": "Scooby Doo, Where Are You!",
+      "type": "series",
+      "year": "1969",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWY2YWM1NzItMTM4OC00OWExLTkxZGItNzNmYzI4MmFiYjVmXkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt0331632",
+      "name": "Scooby-Doo 2: Monsters Unleashed",
+      "type": "movie",
+      "year": "2004",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTc2NDUwYmEtNDBlMi00Y2FhLWE1NDAtNDYyY2Q1MDAyZjE3XkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt0083475",
+      "name": "Scooby-Doo and Scrappy-Doo",
+      "type": "series",
+      "year": "1979",
+      "poster": "https://images.metahub.space/poster/small/tt0083475/img"
+    },
+    {
+      "id": "tt0192578",
+      "name": "Scooby-Doo in Arabian Nights",
+      "type": "movie",
+      "year": "1994",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzRlMjc3ZmEtMmYwZC00NTkzLTg3ZWEtYmM2NTI4OWYxOWI0XkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt8456094",
+      "name": "Scooby-Doo and Guess Who?",
+      "type": "series",
+      "year": "2019",
+      "poster": "https://images.metahub.space/poster/small/tt8456094/img"
+    },
+    {
+      "id": "tt1660055",
+      "name": "Scooby-Doo! Mystery Incorporated",
+      "type": "series",
+      "year": "2010",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTIwODEyMzUtMTMyZi00NTVkLTg0NDItNTMyZWU4ZTI5NDc2XkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt1258157",
+      "name": "Scooby-Doo! The Mystery Begins",
+      "type": "movie",
+      "year": "2009",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTIxMzM1YzItZjM2Ny00NzgxLTliNTAtNzUxMzhhNzE3Yzk3XkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt0094531",
+      "name": "A Pup Named Scooby-Doo",
+      "type": "series",
+      "year": "1988",
+      "poster": "https://images.metahub.space/poster/small/tt0094531/img"
+    },
+    {
+      "id": "tt0068112",
+      "name": "The New Scooby-Doo Movies",
+      "type": "series",
+      "year": "1972",
+      "poster": "https://images.metahub.space/poster/small/tt0068112/img"
+    },
+    {
+      "id": "tt4215734",
+      "name": "Be Cool, Scooby-Doo!",
+      "type": "series",
+      "year": "2015",
+      "poster": "https://images.metahub.space/poster/small/tt4215734/img"
+    },
+    {
+      "id": "tt21153032",
+      "name": "The Scooby-Doo Show",
+      "type": "series",
+      "year": "1976",
+      "poster": "https://images.metahub.space/poster/small/tt21153032/img"
+    },
+    {
+      "id": "tt0306274",
+      "name": "What's New, Scooby-Doo?",
+      "type": "series",
+      "year": "2002",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTIwN2U2OTctMTcxMi00NjllLWE5ZjktZmFiNzAxOWM3YWEwXkEyXkFqcGc@._V1_SX250.jpg"
+    },
+    {
+      "id": "tt0088628",
+      "name": "The 13 Ghosts of Scooby-Doo",
+      "type": "series",
+      "year": "1985",
+      "poster": "https://images.metahub.space/poster/small/tt0088628/img"
+    },
+    {
+      "id": "tt0850642",
+      "name": "Shaggy & Scooby-Doo Get a Clue!",
+      "type": "series",
+      "year": "2006",
+      "poster": "https://images.metahub.space/poster/small/tt0850642/img"
+    },
+    {
+      "id": "tt0074053",
+      "name": "The Scooby-Doo Show",
+      "type": "series",
+      "year": "1976",
+      "poster": "https://images.metahub.space/poster/small/tt0074053/img"
+    },
+    {
+      "id": "tt0084970",
+      "name": "The New Scooby and Scrappy-Doo Show",
+      "type": "series",
+      "year": "1983",
+      "poster": "https://images.metahub.space/poster/small/tt0084970/img"
     }
   ],
   "name": "Heróis e Aventura",
-  "updatedAt": "2026-10-14T05:03:23.603Z",
+  "updatedAt": "2026-10-14T05:18:34.259Z",
   "version": "1.1.0"
 }
