@@ -1,8 +1,8 @@
 {
   "changelog": [
-    "Lançamento beta do ANTFLIX Desktop."
+    "0.1.4 — sincronia remota de fontes (ANTFLIX-API), rotina de backup automático do banco e navegação por foco reescrita."
   ],
   "downloadUrl": "",
-  "minSupported": "0.0.1-beta",
-  "version": "0.0.1-beta"
+  "minSupported": "0.1.0",
+  "version": "0.1.4"
 }
