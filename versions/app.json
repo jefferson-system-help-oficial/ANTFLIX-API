@@ -1,8 +1,9 @@
 {
   "changelog": [
-    "0.1.4 — sincronia remota de fontes (ANTFLIX-API), rotina de backup automático do banco e navegação por foco reescrita."
+    "0.1.5 — sincronia de fontes pelo ANTFLIX-API (kill-switch remoto, ETag/304, merge não destrutivo), rotina de backup automático do banco e avisos do repositório dentro do app.",
+    "0.1.4 — navegação por foco (controle remoto) reescrita."
   ],
   "downloadUrl": "",
   "minSupported": "0.1.0",
-  "version": "0.1.4"
+  "version": "0.1.5"
 }
