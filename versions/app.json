@@ -1,9 +1,9 @@
 {
-  "changelog": [
-    "0.1.5 — sincronia de fontes pelo ANTFLIX-API (kill-switch remoto, ETag/304, merge não destrutivo), rotina de backup automático do banco e avisos do repositório dentro do app.",
-    "0.1.4 — navegação por foco (controle remoto) reescrita."
-  ],
-  "downloadUrl": "",
+  "version": "0.1.6-beta",
   "minSupported": "0.1.0",
-  "version": "0.1.5"
+  "downloadUrl": "",
+  "changelog": [
+    "0.1.6-beta \u2014 Senhas pelo controle remoto: teclado num\u00e9rico na tela (D-pad + OK) em Admin, \u00c1rea dos pais (Kids) e troca de senha Kids; texto do celular roteado para a senha aberta (antes ia s\u00f3 para a busca).",
+    "0.1.5 \u2014 Sincronia remota de fontes (ANTFLIX-API), backup autom\u00e1tico e avisos no app."
+  ]
 }
