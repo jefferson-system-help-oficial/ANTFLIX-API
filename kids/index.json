@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-10-18T00:00:00Z",
+  "packs": [
+    {
+      "id": "pre-escolar",
+      "file": "pre-escolar.json",
+      "version": "1.1.0",
+      "updatedAt": "2026-10-18T00:00:00Z"
+    },
+    {
+      "id": "herois",
+      "file": "herois.json",
+      "version": "1.1.0",
+      "updatedAt": "2026-10-18T00:00:00Z"
+    }
+  ]
+}
