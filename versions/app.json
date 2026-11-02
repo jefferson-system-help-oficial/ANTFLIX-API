@@ -1,9 +1,10 @@
 {
-  "version": "0.1.6-beta",
+  "version": "0.1.23",
   "minSupported": "0.1.0",
   "downloadUrl": "",
   "changelog": [
-    "0.1.6-beta \u2014 Senhas pelo controle remoto: teclado num\u00e9rico na tela (D-pad + OK) em Admin, \u00c1rea dos pais (Kids) e troca de senha Kids; texto do celular roteado para a senha aberta (antes ia s\u00f3 para a busca).",
-    "0.1.5 \u2014 Sincronia remota de fontes (ANTFLIX-API), backup autom\u00e1tico e avisos no app."
+    "0.1.23 — Corrige a piscada constante do aviso \"Estabilizando o vídeo\" durante a reprodução: spinner de buffering com debounce de 700ms (micro-corte de rede/ABR não pisca mais); watchdog de troca de servidor intacto.",
+    "0.1.6-beta — Senhas pelo controle remoto: teclado numérico na tela (D-pad + OK) em Admin, Área dos pais (Kids) e troca de senha Kids; texto do celular roteado para a senha aberta (antes ia só para a busca).",
+    "0.1.5 — Sincronia remota de fontes (ANTFLIX-API), backup automático e avisos no app."
   ]
 }
