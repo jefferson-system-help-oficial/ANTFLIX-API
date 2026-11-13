@@ -1,19 +1,22 @@
 {
   "changelog": [
-    "Agregador lento (5-14s) — resposta progressiva no player."
+    "Auth destravado: URL pessoal (/usr_...) libera os streams (antes o manifesto raiz devolvia 'Não autenticado').",
+    "Entrega 8-12 streams por título em MP4 direto (Range 206), com opções dubladas PT-BR — agregador Argon/Prism/Astra/MegaEmbed.",
+    "Timeout 15s: agregador pode levar 5-14s; tokens de stream são curtos (sempre pedir frescos — o app faz).",
+    "Alguns provedores podem responder 'Assinatura inválida' (falha deles); os demais tocam normalmente."
   ],
   "enabled": true,
   "id": "froststream",
   "kind": "stream",
   "manifestSnapshot": {
-    "id": "froststream",
-    "name": "FrostStream Addon",
-    "version": "1.0.0"
+    "id": "com.froststream",
+    "name": "FrostStream",
+    "version": "2.3.0"
   },
-  "manifestUrl": "https://froststream.cloutteam.com/manifest.json",
+  "manifestUrl": "https://froststream.cloutteam.com/usr_157912219561da8b107d/manifest.json",
   "name": "FrostStream Addon",
   "priority": 70,
-  "timeoutMs": 10000,
-  "updatedAt": "2026-10-14T00:00:00Z",
-  "version": "1.0.0"
+  "timeoutMs": 15000,
+  "updatedAt": "2026-11-13T00:00:00Z",
+  "version": "2.3.0"
 }
