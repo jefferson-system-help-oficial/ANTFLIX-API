@@ -21,8 +21,8 @@
     {
       "file": "bestcine.json",
       "id": "com.bestcine.multisource",
-      "updatedAt": "2026-10-14T00:00:00Z",
-      "version": "1.0.0"
+      "updatedAt": "2026-11-13T12:00:00Z",
+      "version": "1.0.1"
     },
     {
       "file": "big.json",
@@ -55,26 +55,8 @@
       "version": "2.3.0"
     },
     {
-      "file": "iracemaflix.json",
-      "id": "community.m3u.catalog",
-      "updatedAt": "2026-10-14T00:00:00Z",
-      "version": "1.0.0"
-    },
-    {
       "file": "kitsu.json",
       "id": "kitsu",
-      "updatedAt": "2026-10-14T00:00:00Z",
-      "version": "1.0.0"
-    },
-    {
-      "file": "magnetflix.json",
-      "id": "com.magnetbr",
-      "updatedAt": "2026-10-14T00:00:00Z",
-      "version": "1.0.0"
-    },
-    {
-      "file": "selectavision.json",
-      "id": "selectavision.stremio",
       "updatedAt": "2026-10-14T00:00:00Z",
       "version": "1.0.0"
     },
@@ -91,18 +73,6 @@
       "version": "1.0.0"
     },
     {
-      "file": "unioflix.json",
-      "id": "unioflix",
-      "updatedAt": "2026-10-14T00:00:00Z",
-      "version": "1.0.0"
-    },
-    {
-      "file": "veyra.json",
-      "id": "community.veyra.addon",
-      "updatedAt": "2026-10-14T00:00:00Z",
-      "version": "1.0.0"
-    },
-    {
       "file": "youtube.json",
       "id": "youtube",
       "updatedAt": "2026-10-14T00:00:00Z",
@@ -115,5 +85,5 @@
       "version": "1.0.0"
     }
   ],
-  "generatedAt": "2026-11-13T00:00:00Z"
+  "generatedAt": "2026-11-13T12:00:00Z"
 }
