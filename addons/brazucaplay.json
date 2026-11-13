@@ -1,0 +1,21 @@
+{
+  "changelog": [
+    "Addon novo: Brazuca Play (Não Oficial) — filmes, séries, animes, doramas, desenhos e novelas dublados PT-BR via HLS (m3u8).",
+    "Compatibilidade: registrado como stream (a busca/católogos próprios deles ignoram o termo e ficam fora do pipeline); aceita ids IMDb no formato {tt}:{s}:{e} do app; timeout 10s p/ cold start do Render; snapshot do manifesto enxuto (sem descoberta de catálogos na UI).",
+    "Observação: biblioteca seletiva (hits populares presentes, clássicos podem faltar); port independente do addon Kodi Brazuca Play."
+  ],
+  "enabled": true,
+  "id": "brazucaplay",
+  "kind": "stream",
+  "manifestSnapshot": {
+    "id": "org.brazucaplay.stremio",
+    "name": "Brazuca Play (Não Oficial)",
+    "version": "2.1.5"
+  },
+  "manifestUrl": "https://brazuca-play-stremio-y3wf.onrender.com/manifest.json",
+  "name": "Brazuca Play (Não Oficial)",
+  "priority": 55,
+  "timeoutMs": 10000,
+  "updatedAt": "2026-11-12T00:00:00Z",
+  "version": "2.1.5"
+}

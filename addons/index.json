@@ -31,6 +31,12 @@
       "version": "1.0.0"
     },
     {
+      "file": "brazucaplay.json",
+      "id": "brazucaplay",
+      "updatedAt": "2026-11-12T00:00:00Z",
+      "version": "2.1.5"
+    },
+    {
       "file": "cinemeta.json",
       "id": "cinemeta",
       "updatedAt": "2026-10-14T00:00:00Z",
@@ -109,5 +115,5 @@
       "version": "1.0.0"
     }
   ],
-  "generatedAt": "2026-10-14T00:00:00Z"
+  "generatedAt": "2026-11-12T00:00:00Z"
 }
